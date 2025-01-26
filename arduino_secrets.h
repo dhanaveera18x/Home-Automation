@@ -1,0 +1,3 @@
+#define SECRET_SSID "WIFI NAME"  //Enter WIFI NAME
+#define SECRET_PASS "WIFI PASSWORD"  //Enter WIFI PASSWORD
+#define SECRET_DEVICE_KEY "SECRET KEY"  //Enter Secret Key
